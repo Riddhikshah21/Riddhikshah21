@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Machine Le
 
 
 ## 📫 Let's Connect
-- **Email:** [riddhi.shah@example.com](mailto:riddhishah2103@gmail.com)
+- **Email:** [riddhishah2103@gmail.com](mailto:riddhishah2103@gmail.com)
 - **LinkedIn:** [linkedin.com/in/riddhiketanshah](https://www.linkedin.com/in/riddhiketanshah)
 - **Portfolio:** [riddhishah.com](https://riddhikshah21.github.io/)
 
